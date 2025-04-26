@@ -1,0 +1,12 @@
+{
+  "name": "mineflyer-bot",
+  "version": "1.0.0",
+  "description": "Koyeb için Mineflayer bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^5.0.0"
+  }
+}
